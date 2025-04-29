@@ -1,6 +1,6 @@
-# 👨‍💻 Olá, eu sou Kauan Rodrigues! 👾
+# 👨‍💻 Olá, eu sou [Seu Nome]! 👾
 
-![Animação de boas-vindas][(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlhZDg4OGNkM2JjY2VkY2ZjZjViNmM1YzYzZDg4M2Q5NzYzMWEwOSZlcD12Mw/g3gg4WGF8y5J1e9QQp/giphy.gif](https://i.makeagif.com/media/7-03-2016/Tx-L9w.gif))
+![Animação de boas-vindas](https://i.makeagif.com/media/7-03-2016/Tx-L9w.gif)
 
 ### 🚀 **Desenvolvedor Full-Stack & Especialista em Banco de Dados**
 
@@ -38,8 +38,8 @@ Sou apaixonado por criar soluções tecnológicas de ponta. Aqui, você encontra
 
 ---
 
-## ✨ **Exemplo de GIF para animação (como mencionamos no começo):**
+## ✨ **Exemplo de GIF para animação (como mencionado no começo):**
 
-Aqui você pode incluir um GIF de boas-vindas ou algo relacionado à sua área de atuação. Você pode usar o GIF acima ou procurar por outro que represente o seu estilo.
+Aqui está o GIF de boas-vindas que escolhi para deixar este README mais dinâmico e atrativo.
 
-![Desenvolvedor Full-Stack GIF](https://media.giphy.com/media/d31w2psGqL2kuxv6/giphy.gif)
+![Desenvolvedor Full-Stack GIF](https://i.makeagif.com/media/7-03-2016/Tx-L9w.gif)
