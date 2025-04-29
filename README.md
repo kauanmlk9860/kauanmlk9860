@@ -1,6 +1,6 @@
 # 👨‍💻 Olá, eu sou Kauan Rodrigues! 👾
 
-![Animação de boas-vindas](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlhZDg4OGNkM2JjY2VkY2ZjZjViNmM1YzYzZDg4M2Q5NzYzMWEwOSZlcD12Mw/g3gg4WGF8y5J1e9QQp/giphy.gif)
+![Animação de boas-vindas][(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlhZDg4OGNkM2JjY2VkY2ZjZjViNmM1YzYzZDg4M2Q5NzYzMWEwOSZlcD12Mw/g3gg4WGF8y5J1e9QQp/giphy.gif](https://i.makeagif.com/media/7-03-2016/Tx-L9w.gif))
 
 ### 🚀 **Desenvolvedor Full-Stack & Especialista em Banco de Dados**
 
