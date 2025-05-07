@@ -19,8 +19,6 @@
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bielxs633&bg_color=00000000&color=8A2BE2&line=bb00ff&point=4B0082&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ##
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
