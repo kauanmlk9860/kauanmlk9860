@@ -1,6 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+KAUAN+RODRIGUES+;I'm+17+years+old;I+am+from+Osasco,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+KAUAN+RODRIGUES+;I'm+17+years+old;I+am+from+Osasco,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<br>
+
+<div align='center'>
+    <img src="https://i.pinimg.com/originals/6a/e8/51/6ae8514a43c9350071be269915437403.gif" alt="GIF" width='95%'>
+</div>  
+
+<br>
+<br>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kauanmlk9860&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kauan Rodrigues github stats" /> 
@@ -52,4 +61,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kauanmlk9860}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
